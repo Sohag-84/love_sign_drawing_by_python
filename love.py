@@ -1,0 +1,12 @@
+from turtle import *
+print("Hello world")
+color('red',)
+begin_fill()
+left(50)
+forward(150)
+circle(62, 180)
+left(260)
+circle(62, 180)
+forward(150)
+end_fill()
+done()
